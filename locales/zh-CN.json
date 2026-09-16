@@ -1,0 +1,4 @@
+{
+  "displayName": "mimo-skills-settings",
+  "brief": "安装适配本地 skill，并保持斜杠命令与加号 skill 库一致，不覆盖应用内建行为"
+}
